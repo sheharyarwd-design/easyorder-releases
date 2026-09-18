@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "updated": "2026-09-19T04:04:23",
+  "updated": "2026-09-19T04:04:46",
   "policy": {
     "heartbeat": false,
     "days": 30
   },
   "blocked": [],
-  "sig": "a4c7d856b2b3e8bdf1eda61e496a8c756f2ca0e18cddd5750ee6e0e7f589b0a0"
+  "sig": "e394e6b7f3f7e8b3e882f7781953c071f662728e4ccfa6b54dd6b68e5838be97"
 }
