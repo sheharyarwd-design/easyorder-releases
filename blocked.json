@@ -1,10 +1,15 @@
 {
   "version": 1,
-  "updated": "2026-09-19T04:05:13",
+  "updated": "2026-09-19T04:11:55",
   "policy": {
     "heartbeat": false,
     "days": 30
   },
-  "blocked": [],
-  "sig": "86b66e05477aba397afcf604be63ddbb3b8c8e26f2badbb4ba7262856dbebd33"
+  "blocked": [
+    {
+      "machine": "75EA8A1CEEA1D193",
+      "since": "2026-09-19"
+    }
+  ],
+  "sig": "e9b22a9303c110a209221ed595fb53281ef9a20b43676183aceeec175a4e146b"
 }
