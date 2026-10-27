@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-28T03:16:38",
+  "updated": "2026-10-28T03:16:44",
   "policy": {
     "heartbeat": false,
     "days": 30
@@ -11,5 +11,5 @@
       "since": "2026-10-28"
     }
   ],
-  "sig": "f5c39e625917ac403462de4f47fcbc1e156ec6e78bf1c6d41212626ac9f4749f"
+  "sig": "7c3d437bd96d3a4fc0f982b243db6afd19a5a3d356b0ad369c7a5ea35bcaacf9"
 }
